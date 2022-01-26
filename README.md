@@ -1,2 +1,4 @@
-# local.simpleclickers.dev
-Git For Local
+# new.developdomain ##
+ # Git For Local #
+
+new.developdomain
